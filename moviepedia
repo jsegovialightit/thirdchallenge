@@ -1,0 +1,14 @@
+#! /usr/bin/env php
+
+<?php
+
+use src\ShowCommand;
+use Symfony\Component\Console\Application;
+
+require 'vendor/autoload.php';
+
+$app = new Application('PopCornTime! App - MoviePedia', '1.0');
+
+$app->add(new Acme\ShowCommand);
+
+$app->run();
