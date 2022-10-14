@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This project is about PopCornTime! - Joaquin Segovia's Third Challenge.
+This project is about PopCornTime! app - Joaquin Segovia's Third Challenge.
 
 ## Built With
 
