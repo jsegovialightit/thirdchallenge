@@ -55,7 +55,7 @@ Light-it is a digital product agency that helps founders and companies ideate, b
 
 
 
-<img src="[your_relative_path_here_number_2_large_name](https://github.com/jsegovialightit/thirdchallenge/blob/main/Assests/Screen_Recording_2022-10-17_at_10_30_08_2_MOV_AdobeExpress.gif)" width="350" alt="accessibility text">
+<img src="https://github.com/jsegovialightit/thirdchallenge/blob/main/Assests/Screen_Recording_2022-10-17_at_10_30_08_2_MOV_AdobeExpress.gif" width="350" alt="accessibility text">
 
-
+<a href=#><img src="https://github.com/jsegovialightit/thirdchallenge/blob/main/Assests/Screen_Recording_2022-10-17_at_10_30_08_2_MOV_AdobeExpress.gif" width="100%" style="pointer-events: none; cursor: nw-resize;"> 
 
