@@ -51,11 +51,3 @@ Try with this movie's name:: scarface
 ## About Light-it
 
 Light-it is a digital product agency that helps founders and companies ideate, build, and launch web and mobile applications people love to use. We have ample experience working with diverse products from different industries and company sizes. So, no matter whether you’re a startup or a Fortune 500 launching a new product, we’re here to help!
-
-
-
-
-<img src="https://github.com/jsegovialightit/thirdchallenge/blob/main/Assests/Screen_Recording_2022-10-17_at_10_30_08_2_MOV_AdobeExpress.gif" width="350" alt="accessibility text">
-
-<a href=#><img src="https://github.com/jsegovialightit/thirdchallenge/blob/main/Assests/Screen_Recording_2022-10-17_at_10_30_08_2_MOV_AdobeExpress.gif" width="100%" style="pointer-events: none; cursor: nw-resize;"> 
-
