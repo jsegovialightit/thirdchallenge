@@ -47,6 +47,7 @@ B. With fullPlot
 
 Try with this movie's name:: scarface
 
+<a href=#><img src="https://github.com/jsegovialightit/thirdchallenge/blob/main/Assests/howTo.gif" width="100%" style="pointer-events: none; cursor: nw-resize;"> 
 
 ## About Light-it
 
