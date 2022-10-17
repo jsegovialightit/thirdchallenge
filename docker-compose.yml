@@ -8,7 +8,7 @@ services:
             - ./:/var/www
         environment:
             - API_BASE_URL=http://www.omdbapi.com
-            - API_KEY=e175c3c2	
+            - API_KEY=[replaceme]
 networks:
     php:
         driver: bridge
